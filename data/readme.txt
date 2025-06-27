@@ -1,1 +1,1 @@
-Data for fig3
+Data for fig2 and fig3
